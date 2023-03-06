@@ -1,0 +1,18 @@
+[submodule "bibliography"]
+	path = bibliography
+	url = https://github.com/is-init-right/bibliography
+[submodule "extras"]
+	path = extras
+	url = https://github.com/is-init-right/extras
+[submodule "figures"]
+	path = figures
+	url = https://github.com/is-init-right/_gallery
+[submodule "images"]
+	path = images
+	url = https://github.com/is-init-right/images
+[submodule "quotes"]
+	path = quotes
+	url = https://github.com/is-init-right/_quotes
+[submodule "text"]
+	path = text
+	url = https://github.com/is-init-right/text
